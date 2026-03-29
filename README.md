@@ -75,16 +75,12 @@ Postman
 ### 🚀 Featured Projects
 
 🔹 **Course Outline System**
-
-
 A full-stack MERN + MySQL application with role-based authentication (Admin & Teacher).
 Includes lecture scheduling, subject-teacher mapping, and PDF export for structured academic planning.
 
 ---
 
 🔹 **Hackathon Event Registration System** *(Ongoing)*
-
-
 A MERN-based platform for managing hackathon registrations with admin verification and real-time tracking.
 Implemented an AI-based skill matching feature where participants enter their skills, and the system intelligently suggests suitable events for participation.
 Also includes participant management, Excel export, and automated email notifications for seamless event handling.
@@ -92,8 +88,6 @@ Also includes participant management, Excel export, and automated email notifica
 ---
 
 🔹 **AI-Based Digital Trust Score & Fake Content Detection System** *(In Progress)*
-
-
 An ML + NLP based system to detect fake content and generate trust scores.
 Focus on text analysis, classification models, and improving accuracy for real-world use cases.
 
