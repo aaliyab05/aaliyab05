@@ -81,7 +81,7 @@ Includes lecture scheduling, subject-teacher mapping, and PDF export for structu
 
 ---
 
-🔹 **Hackathon Event Registration System** *(Ongoing)*
+🔹 **Hackathon Event Registration System** 
 
 A MERN-based platform for managing hackathon registrations with admin verification and real-time tracking.
 Implemented an AI-based skill matching feature where participants enter their skills, and the system intelligently suggests suitable events for participation.
