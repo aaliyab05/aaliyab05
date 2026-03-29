@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aaliya Shakil Betgeri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MySQL&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MySQL;Backend+Enthusiast&center=true&width=500&height=45">
 </p>
 
-<h3 align="center">Full Stack Developer | MERN Stack | MySQL</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | MySQL</h3>
 
 ---
 
@@ -12,10 +12,10 @@
 
 ### 👩‍💻 About Me
 
-I am an MCA student passionate about building real-world applications using modern technologies. I love creating scalable web applications and exploring AI-based solutions.
+I am an MCA student passionate about building real-world applications using modern technologies.
+I enjoy creating scalable web applications and solving real-world problems with clean and efficient code.
 
-💡 I believe in:
-**"Learn → Build → Improve → Repeat"**
+💡 **"Learn → Build → Improve → Repeat"**
 
 ---
 
@@ -46,7 +46,7 @@ Postman
 
 ---
 
-### 🏷️ Badges
+### 🏷️ Skills Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge" />
@@ -58,30 +58,32 @@ Postman
 
 ### 🚀 Featured Projects
 
-🔹 Course Outline System
+🔹 **Course Outline System**
 Full Stack MERN + MySQL project with role-based login
 
-🔹 Lecture Conducted System
-Track lectures with dynamic DB integration
+🔹 **Lecture Conducted System**
+Track lectures with dynamic database integration
 
-🔹 AI Fake News Detection System
-ML + NLP based classification
+🔹 **AI Fake News Detection System**
+Machine Learning + NLP based classification
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-📧 Email: aaliyabetgeri3@gmail.com
-💼 LinkedIn: your-linkedin-link
+📧 Email: [aaliyabetgeri3@gmail.com](mailto:aaliyabetgeri3@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/aaliya-betgeri/
 
 ---
 
-⭐ Code. Build. Grow. Repeat.
+⭐ **Code. Build. Grow. Repeat.**
