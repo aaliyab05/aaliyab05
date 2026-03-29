@@ -79,7 +79,7 @@ ML + NLP based classification
 
 ### 🌐 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email: aaliyabetgeri3@gmail.com
 💼 LinkedIn: your-linkedin-link
 
 ---
