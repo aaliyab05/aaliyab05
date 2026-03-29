@@ -19,6 +19,14 @@ I enjoy creating scalable web applications and solving real-world problems with 
 
 ---
 
+### 🚀 Current Work & Learning
+
+* 🔭 Currently working on: **AI-Based Digital Trust Score & Fake Content Detection System**
+* 🌱 Currently learning: **Advanced Backend & System Design**
+* 🤖 Exploring: **AI & Machine Learning Projects**
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Programming
@@ -34,6 +42,14 @@ APIs: REST APIs, JWT Authentication
 #### 🗄️ Databases
 
 MySQL, MongoDB
+
+---
+
+### ⚡ Tech Logos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css,js,python,java,git,github,vscode" />
+</p>
 
 ---
 
@@ -58,14 +74,24 @@ Postman
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 🔹 **Course Outline System**
-Full Stack MERN + MySQL project with role-based login
+A full-stack web application built using MERN + MySQL to digitize academic course management.
+Implemented role-based access (Admin & Teacher), lecture scheduling, subject-teacher mapping, and PDF export functionality for streamlined academic planning.
 
-🔹 **Lecture Conducted System**
-Track lectures with dynamic database integration
+---
 
-🔹 **AI Fake News Detection System**
-Machine Learning + NLP based classification
+🔹 **Hackathon Event Registration System** *(Ongoing)*
+A MERN-based web platform to manage hackathon registrations efficiently with admin verification and real-time data tracking.
+Integrated features like event management, participant tracking, Excel export, and automated email notifications for seamless event handling.
+
+---
+
+🔹 **AI-Based Digital Trust Score & Fake Content Detection System** *(In Progress)*
+Developing an intelligent system using Machine Learning and NLP to detect fake content and generate trust scores.
+Focused on text analysis, classification models, and improving accuracy for real-world misinformation detection.
+
 
 ---
 
