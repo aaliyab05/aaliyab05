@@ -95,18 +95,15 @@ An ML + NLP based system to detect fake content and generate trust scores.
 Focus on text analysis, classification models, and improving accuracy for real-world use cases.
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&hide_border=true" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyab05&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyab05&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ### 🌐 Connect With Me
 
