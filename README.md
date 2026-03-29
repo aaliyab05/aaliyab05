@@ -112,6 +112,7 @@ Focus on text analysis, classification models, and improving accuracy for real-w
 ### 🌐 Connect With Me
 
 📧 Email: [aaliyabetgeri3@gmail.com](mailto:aaliyabetgeri3@gmail.com)
+
 💼 LinkedIn: https://www.linkedin.com/in/aaliya-betgeri/
 
 ---
