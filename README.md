@@ -100,8 +100,19 @@ Focused on text analysis, classification models, and improving accuracy for real
 
 ### 📊 GitHub Stats
 
-<<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=aaliyab05" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyab05&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://stats.dooboo.io/api/github-stats-advanced?login=aaliyab05" />
 </p>
 ---
 
