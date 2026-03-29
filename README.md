@@ -72,7 +72,7 @@ Postman
 
 ---
 
-### 🚀 Featured Projects
+
 
 ### 🚀 Featured Projects
 
@@ -96,13 +96,15 @@ Focused on text analysis, classification models, and improving accuracy for real
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ### 🌐 Connect With Me
