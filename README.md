@@ -72,31 +72,25 @@ Postman
 
 ---
 
-
-
 ### 🚀 Featured Projects
 
 🔹 **Course Outline System**
-A full-stack web application built using MERN + MySQL to digitize academic course management.
-Implemented role-based access (Admin & Teacher), lecture scheduling, subject-teacher mapping, and PDF export functionality for streamlined academic planning.
+A full-stack MERN + MySQL application with role-based authentication (Admin & Teacher).
+Includes lecture scheduling, subject-teacher mapping, and PDF export for structured academic planning.
 
 ---
 
 🔹 **Hackathon Event Registration System** *(Ongoing)*
-A MERN-based web platform to manage hackathon registrations efficiently with admin verification and real-time data tracking.
-Integrated features like event management, participant tracking, Excel export, and automated email notifications for seamless event handling.
+A MERN-based platform for managing hackathon registrations with admin verification and real-time tracking.
+Features include participant management, Excel export, and automated email notifications.
 
 ---
 
 🔹 **AI-Based Digital Trust Score & Fake Content Detection System** *(In Progress)*
-Developing an intelligent system using Machine Learning and NLP to detect fake content and generate trust scores.
-Focused on text analysis, classification models, and improving accuracy for real-world misinformation detection.
-
+An ML + NLP based system to detect fake content and generate trust scores.
+Focus on text analysis, classification models, and improving accuracy for real-world use cases.
 
 ---
-
-
-
 
 ### 📊 GitHub Stats
 
@@ -108,7 +102,8 @@ Focused on text analysis, classification models, and improving accuracy for real
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyab05&theme=tokyonight&hide_border=true" />
 </p>
----
+
+<br>
 
 ### 🌐 Connect With Me
 
