@@ -85,7 +85,6 @@ A MERN-based platform for managing hackathon registrations with admin verificati
 Implemented an AI-based skill matching feature where participants enter their skills, and the system intelligently suggests suitable events for participation.
 Also includes participant management, Excel export, and automated email notifications for seamless event handling.
 
-
 ---
 
 🔹 **AI-Based Digital Trust Score & Fake Content Detection System** *(In Progress)*
