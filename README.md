@@ -92,6 +92,8 @@ Focus on text analysis, classification models, and improving accuracy for real-w
 
 ---
 
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -102,8 +104,6 @@ Focus on text analysis, classification models, and improving accuracy for real-w
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyab05&theme=tokyonight&hide_border=true" />
 </p>
-
-<br>
 
 ### 🌐 Connect With Me
 
