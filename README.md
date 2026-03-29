@@ -95,15 +95,17 @@ Focused on text analysis, classification models, and improving accuracy for real
 
 ---
 
+
 ### 📊 GitHub Stats
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyab05&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyab05&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 ---
 
